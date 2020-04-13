@@ -121,3 +121,13 @@ article{
     margin: auto;
     width: 900px;
 }
+footer{
+    position: relative;
+}
+.footer{
+    text-align: center;
+    bottom: 1em;
+    margin: auto;
+    width: 100%;
+    color: blue;
+}
